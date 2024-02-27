@@ -1,0 +1,35 @@
+body {
+  background-color: yellow;
+}
+#light {
+  border: 10px solid black;
+  border-radius: 20%;
+  height: 100px;
+  width: 40px;
+  background-color: black;
+  margin-left: 600px;
+  margin-top: 250px;
+}
+
+#pole {
+  border: 10px solid black;
+  border-radius: 30%;
+  height: 250px;
+  width: 0px;
+  margin-left: 620px;
+}
+#red {
+  border: 10px solid red;
+  border-radius: 50%;
+  margin-top: 10px;
+}
+#orange {
+  border: 10px solid orange;
+  border-radius: 50%;
+  margin-top: 10px;
+}
+#green {
+  border: 10px solid green;
+  border-radius: 50%;
+  margin-top: 10px;
+}
